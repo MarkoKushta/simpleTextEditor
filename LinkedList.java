@@ -29,10 +29,6 @@ import java.nio.file.Paths;
 import java.nio.file.StandardCopyOption;
 
 /**
- *
- * @author oltasula
- */
-/**
  * LinkedList class implements a doubly-linked list.
  */
 public class LinkedList<AnyType> extends AbstractCollection<AnyType>
